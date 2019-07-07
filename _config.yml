@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 小城堡
+SEOTitle: Mazetty的博客 | Ty Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: chris282847147@gmail.com
+description: "Personal blog for some moive reviews and personal shits."
+keyword: "Ty, Mazetty, Ty的博客, qiubaiying, Mazetty的博客, 博客, Apple, iPhone"
+url: "http://Mazetty.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Never have I felt so deeply at one and the same time so detached from my self and so present in the world."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+# weibo_username:     不喝酒的阿喀琉斯
+zhihu_username:     折戟沉沙
+github_username:    Mazetty
+facebook_username:  Yi
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   Victor Caulfeild
 
 
 
